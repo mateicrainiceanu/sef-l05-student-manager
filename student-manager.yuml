@@ -1,0 +1,3 @@
+[Student]-(Login), [Teacher]-(Login)
+[Student]-(Upload Docs), [Teacher]-(Upload Docs)
+[Teacher]-(Grade Work)
